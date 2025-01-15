@@ -1,8 +1,0 @@
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-missingno
-tensorflow
-scikit-learn
